@@ -8,13 +8,7 @@
   },
   "footer": {
     "content": "",
-    "links": [
-      {
-        "new_window": true,
-        "url": "https://www.linkedin.com/in/carl-h%C3%A5kansson-187648154/",
-        "text": "LinkedIn"
-      }
-    ],
-    "has_social": false
+    "links": [],
+    "has_social": true
   }
 }
